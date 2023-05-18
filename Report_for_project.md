@@ -62,6 +62,13 @@ test method: It predict the personality of a person by passing an array of value
 
 >It converts various strings and numbers into desired format and converts lists and tuples in string. 
 
+### Limitations to CV Analysis
+
+>Adversarial Attacks: CV systems can be vulnerable to adversarial attacks, where malicious actors deliberately manipulate or perturb the input data to mislead the model. Even subtle changes that are imperceptible to humans can cause significant misclassifications or false detections.
+>Contextual Understanding and Common Sense: While CV models excel at recognizing and classifying objects, they often struggle with higher-level tasks that require contextual understanding or common sense reasoning. Extracting meaningful information from images in complex scenarios or understanding the relationships between objects can be challenging.
+>Ethical and Bias Concerns: CV systems can inherit biases present in the training data, leading to discriminatory or unfair outcomes. For example, facial recognition algorithms have shown biases against certain demographic groups. Addressing these biases and ensuring ethical use of CV technology is a significant challenge.
+>Computation and Resource Requirements: CV analysis often requires substantial computational power and resources, especially for large-scale deployments or real-time applications. Processing high-resolution images or video streams in real-time can be computationally expensive and may require specialized hardware or infrastructure.
+
 ## Note: CV datasets (Which includes the files that are read to detect the traits) have been gotten from kaggle.
 ### https://www.kaggle.com/datasets/gauravduttakiit/resume-dataset
 
