@@ -21,6 +21,13 @@ The Big Five Personality Traits Model measures five key dimensions of people's p
 ### Natural Reactions
 >Sometimes called "Emotional Stability" or "Neuroticism," this measure emotional reactions. Do you react negatively or calmly to bad news? Do you worry obsessively about small details, or are you relaxed in stressful situations?
 
+### Possible Personalities that can be assigned:
+- Dependable
+- Responsible
+- Serious
+- Lively
+- Extraverted
+
 ## Dependencies of System
 
 -  os
