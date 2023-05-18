@@ -30,13 +30,13 @@ The Big Five Personality Traits Model measures five key dimensions of people's p
 
 ## Dependencies of System
 
--  os
-- pandas
-- numpy
-- tkinter
-- functools
-- pyresparser
-- sklearn
+- os: For accessing files and data from internal storage
+- pandas: For accessing and manipulating data sheets
+- numpy: For working on arrays
+- tkinter: For building the GUI
+- functools: For manipulating functions that operate on other functions
+- pyresparser: For extracting information from resume
+- sklearn: Classification/Regression/Clustering Algorithms. It helps the model to learn on various characteristics using logical reg
 - nltk
 - scaPy
 
